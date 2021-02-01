@@ -1,0 +1,1 @@
+# snap-challenge-js-events
